@@ -1,5 +1,6 @@
 https://www.youtube.com/watch?v=BWiAUtwtqjM
 https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
+https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
 
 
 cd 'c:\users\pwu\documents\visual studio 2017\projects\DataSyncFailureNotifier_v2'
@@ -28,7 +29,7 @@ git remote add origin https://github.com/staynight0083/Data_Export_v2.git
 git remote -v
 
 //push the changes in the local repository to GitHub
-git push oritin master
+git push origin master
 
 git log
 
